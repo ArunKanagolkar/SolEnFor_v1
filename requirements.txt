@@ -4,4 +4,5 @@ streamlit
 matplotlib == 3.5.2
 seaborn == 0.11.2
 statsmodels
+numpy == 1.24.4
 
